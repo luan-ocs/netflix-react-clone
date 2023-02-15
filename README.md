@@ -1,14 +1,35 @@
 # Projeto React Clone
 
-## Projeto de Clonar a Interface do netflix utilizando React
+Projeto Web com o objetivo de clonar a interface do netflix. <br />
 
-### Pré-requisitos
+https://naughty-knuth-e709a3.netlify.app/
 
-Antes de começar, você vai precisar instalar em sua máquina as ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
-Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
+[![GitHub](https://img.shields.io/github/license/luan-ocs/Spring-hibernate?=plastic)](https://github.com/luan-ocs/netflix-react-clone/blob/main/licence)
 
-### 🎲 Rodando o Frontend
+## Sobre o projeto
+
+Este é um projeto em React que eu criei para estudar e testar minhas habilidades em React. Trata-se de um clone da interface do Netflix, utilizando tecnologias como React, Axios e Styled Components.
+
+O objetivo deste projeto é aprimorar minhas habilidades em programação, tanto no uso de bibliotecas como no desenvolvimento de aplicações mais complexas em React. A partir desse clone, busquei replicar as principais funcionalidades da interface principal do Netflix, como a exibição de filmes e séries.
+
+O uso de Axios permitiu que eu consumisse dados de uma API do TheMoviedb e o Styled Components tornaram o processo de estilização da interface mais simples e organizado.
+
+## Interface
+
+![print](https://github.com/luan-ocs/netflix-react-clone/blob/main/assets/React-clone.png)
+![gif](https://github.com/luan-ocs/netflix-react-clone/blob/main/assets/React-clone-2.gif)
+
+## Tecnologias utilizadas: 
+
+- Reactjs
+- Axios
+- Styled Components
+
+
+## Como Executar o projeto:
+Pré-requisitos: 
+- Node.js
+- TheMovieDb api key
 
 ```bash
 
@@ -18,31 +39,18 @@ $ cd frontend
 # Instale as dependências
 $ npm install
 
+## Antes de Executar, adicione um arquivo .env na pasta raiz do projeto e em API_KEY adicione a sua chave api
+
 # Execute a aplicação
 $ npm start
 
 # O servidor inciará na porta:3000 - acesse <http://localhost:3000>
 ```
 
+## Autor
 
-### 🛠 Tecnologias
-
-As seguintes ferramentas foram usadas na construção do projeto:
-
-- [Node.js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org/)
-- [Styled-Components](https://styled-components.com/)
-
-
-### Autor 
-
-
-<a href="https://github.com/luan-ocs">
- <img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/u/78988879?s=400&u=34c3b61361455040821b4dfe8b0d79b88205e8f3&v=4" width="100px;" alt=""/>
- <br />
- <sub><b>Luan Otávio</b></sub></a>
+ <b>Luan Otávio Costa Silva</b>
  
  Feito com ❤️ por Luan Otávio 👋🏽 Entre em contato!
  
-[![Linkedin Badge](https://img.shields.io/badge/-Luan-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luan-ot%C3%A1vio-a10b511b4/)](https://www.linkedin.com/in/luan-ot%C3%A1vio-a10b511b4/) 
-[![Gmail Badge](https://img.shields.io/badge/-luanotaviocostasilva@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:luanotaviocostasilva@gmail.com)](mailto:luanotaviocostasilva@gmail.com)
+https://www.linkedin.com/in/luan-ot%C3%A1vio-a10b511b4/
